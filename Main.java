@@ -11,4 +11,9 @@ public class Main
 	@Instance("fairytail")
 	public static Main instance;
 	
+	public void test()
+	{
+		
+	}
+	
 }
